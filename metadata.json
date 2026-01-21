@@ -1,0 +1,8 @@
+{
+  "name": "FaisiBrands - Style. Quality. Trust.",
+  "description": "A premium, modern e-commerce platform for fashion, electronics, and lifestyle products featuring a Gemini-powered smart shopping assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
